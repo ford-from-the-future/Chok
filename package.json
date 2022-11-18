@@ -1,0 +1,23 @@
+{
+  "name": "chocan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^21.2.3"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "^3.0.1",
+    "easyinvoice": "^2.3.3",
+    "pdfkit": "^0.13.0",
+    "react": "^16.14.0"
+  }
+}
